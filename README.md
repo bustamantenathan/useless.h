@@ -1,0 +1,1 @@
+This header file contains a group of seemingly useless functions which one day may come in handy.
